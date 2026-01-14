@@ -74,7 +74,8 @@ pip install -r requirements.txt
 │   │   ├── tolkien_shapes.ttl
 │   │   └── validation_report.ttl
 │   └── external/             # External datasets
-│       └── cards.json
+│       ├── cards.json
+│       └── lotr_characters.csv
 └── requirements.txt
 ```
 
